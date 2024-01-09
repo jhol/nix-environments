@@ -31,6 +31,7 @@ What environments should **not** include:
 | [SPEC benchmark](envs/spec-benchmark)           | `spec-benchmark`      |
 | [Yocto](envs/yocto)                             | `yocto`               |
 | [Xilinx vitis](envs/xilinx-vitis)               | `xilinx-vitis`        |
+| [Zephyr SDK](envs/zephyr)                       | `zephyr-sdk`          |
 
 ## How to use
 
